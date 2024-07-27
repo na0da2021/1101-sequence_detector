@@ -29,7 +29,7 @@ Finite state machines are essential components in digital systems. They model se
 ## Installation
 1. Clone this repository to your local machine:
 
-   git clone https://github.com/na0da2021/1101-detection-fsm-.git
+   git clone https://github.com/na0da2021/1101-sequence_detector.git
 
 2. Navigate to the cloned directory and explore the Verilog source files.
 
